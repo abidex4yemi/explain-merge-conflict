@@ -1,4 +1,4 @@
 const names = ['John', 'Jane'];
-console.log(names);
+console.log('Changes from master');
 console.log('update from github');
 console.log('We are live');
