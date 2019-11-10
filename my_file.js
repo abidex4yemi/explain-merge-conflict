@@ -1,3 +1,3 @@
 console.log('Hello Git');
-// Sample code
+console.log('the conflicted line');
 console.log('We are live');
